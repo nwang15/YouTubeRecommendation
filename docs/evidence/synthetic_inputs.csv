@@ -1,0 +1,12 @@
+
+entity_type,id,creator_category,interest,popularity,topic,initial_exposure
+viewer,V1,,0.1,,,
+viewer,V2,,0.25,,,
+viewer,V3,,0.4,,,
+viewer,V4,,0.6,,,
+viewer,V5,,0.75,,,
+viewer,V6,,0.9,,,
+video,Video1,new,,0.2,0.1,0
+video,Video2,new,,0.3,0.9,0
+video,Video3,established,,0.8,0.4,0
+video,Video4,established,,0.9,0.6,0
